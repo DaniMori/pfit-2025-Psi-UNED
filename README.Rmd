@@ -9,22 +9,9 @@ editor_options:
 ```{r config}
 #| echo: false
 
-# TODO: Substitute "<repository-name>" by your own repository name, e.g.:
-#   REPOSITORY_NAME <- "my-amazing-repo"
-REPOSITORY_NAME <- "<repository-name>"
-# TODO: Substitute "<username>" by your own GitHub user name, e.g.:
-#   GITHUB_USERNAME <- "JohnDoe"
-GITHUB_USERNAME <- "<username>"
-# TODO: Substitute "<author_name>" by your own name, as you want to be credited
-#   in attributions, e.g.:
-#   AUTHOR_NAME <- "John M. Doe, Ph.D."
-AUTHOR_NAME     <- "<author_name>"
-# TODO: If your project is created under another "GitHub owner" i.e., a GitHub
-#   organization,
-#   https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations
-#   change GITHUB_USERNAME by the proper owner. E.g., if the owner of the
-#   repository is GitHub organization "ACME", change the next line to:
-#   GITHUB_OWNER <- "ACME"
+REPOSITORY_NAME <- "pfit-2025-Psi-UNED"
+GITHUB_USERNAME <- "DaniMori"
+AUTHOR_NAME     <- "Daniel Morillo"
 GITHUB_OWNER    <- GITHUB_USERNAME
 
 # Objects created automatically (no need to edit)
@@ -45,12 +32,9 @@ git_version   <- gitr::git_version()
 
 # Repository ``r REPOSITORY_NAME``
 
-<!-- TODO: Add a repository description -->
-<This is a free text repository description.>
+Proposal for the 2025 research & transference promotion plan at UNED's School of Psychology
 
 # License
-
-<!-- TODO: Choose a license and update this section, if necessary -->
 
 [Repository `r REPOSITORY_NAME`](`r repo_url`) © `r creation_year` by
 [`r AUTHOR_NAME`](`r profile_url`) is licensed under [CC BY 4.0][license].
@@ -73,8 +57,6 @@ created by [Daniel Morillo][profile] and licensed under the
 [profile]: https://github.com/DaniMori
 
 [repo_lic]: https://creativecommons.org/licenses/by/4.0
-
-<!-- TODO: Add attributions to other software components, if necessary -->
 
 ### <Software component>
 
