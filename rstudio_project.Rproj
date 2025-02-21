@@ -21,3 +21,5 @@ UseNativePipeOperator: Yes
 
 MarkdownWrap: Sentence
 MarkdownCanonical: Yes
+
+ZoteroLibraries: "My Library","MIRT-parameters"

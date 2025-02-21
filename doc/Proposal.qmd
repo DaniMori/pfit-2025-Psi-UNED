@@ -6,7 +6,8 @@ subtitle:  |
 date-meta: 2025-02-21
 date:      2025-02-21
 format:
-  typst:   default
+  pdf:     default
+bibliography: ../www/references.bib
 ---
 
 # Datos identificativos
@@ -46,6 +47,29 @@ format:
 {{< pagebreak >}}
 
 # Justificación
+
+El modelo M2PL resulta prácticamente equivalente al modelo factorial para ítems dicotómicos [@mcdonald1999].
+No obstante, en la investigación aplicada no suelen utilizarse ítems de respuesta dicotómica, por lo que los resultados antes mencionados, si bien constituyen un punto de partida, no son ampliamente aplicables.
+Los modelos de análisis factorial de ítems contemplan la posibilidad de respuestas en escalas graduadas "tipo Likert", lo cual también es abordable desde el punto de vista de la TRI [@samejima1968].
+Ahora bien, bajo este supuesto no sería necesario estudiar la MIRT más que como un caso paraticular del modelo factorial.
+Sin embargo, los modelos MIRT permiten una mayor flexibilidad en el modelado de los fenómenos de respuesta.
+Sin ánimo de ser exhaustivos, algunos ejemplos en el dominio de los instrumentos cognitivos son:
+
+-   Modelado del "pseudoazar": Ante la posibilidad de acertar un ítem de manera aleatoria, el Modelo Multidimensional Logístico de 3 Parámetros (M3PL) permite estimar un parámetro interpretable como "acierto por azar".
+
+-   Modelado del "lapsus": Como en el caso anterior, el Modelo Multidimensional Logístico de 4 Parámetros (M4PL) permite estimar un parámetro interpretable como "fallo por lapsus o desliz".
+
+-   Crédito Parcial: En el caso de ítems de opción múltiple, el Modelo Multidimensional de Crédito Parcial (MPCM) permite estimar el conocimiento parcial a partir del análisis diferencial de los distractores.
+
+Asimismo en el ámbito no cognitivo se pueden considerar, entre otros:
+
+-   Versiones multidimensionales de modelos para ítems con supuestos de medida no monótonos o "de punto ideal", como el Modelo de Coseno Hiperbólico [HCM, @andrich1993], o el Generalized Graded Unfolding Model [GGUM, @roberts2000].
+
+-   Modelos para ítems de elección forzosa multidimensionales, como son el caso de TRI Thurstoniana o TIRT [@maydeu-olivares2010], el Multi-Unidimensional Pairwise Preference Model [MUPP, @stark2005] o su versión para ítems monótonos, el MUPP-2PL [@morillo2016].
+
+Todos estos modelos van mucho más allá de la equivalencia con el modelo factorial, permitiendo el estudio pormenorizado del proceso de respuesta y una mayor precisión en el estudio de los rasgos y fenómenos objeto de la medición.
+Por lo tanto, en base a las derivaciones teóricas anteriormente mencionadas, resulta necesario generalizar las definiciones de los parámetros multidimensionales dadas por @reckase1985 y @reckase1991 a otros modelos MIRT.
+Yendo incluso más allá, conviene justificar teóricamente la definción dada por @zhang1999 para modelos MIRT semiparamétricos.
 
 <!-- máximo una página -->
 
