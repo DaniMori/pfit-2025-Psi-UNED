@@ -1,0 +1,73 @@
+---
+title: "Memoria científico-técnica"
+format:
+  typst: default
+  pdf: default
+  docx: default
+---
+
+# Datos identificativos
+
+## Proyecto
+
+## Miembros del equipo de investigación
+
+## Investigador Principal
+
+# Resumen
+
+<!-- máximo 1000 palabras -->
+
+{{< pagebreak >}}
+
+# Antecedentes
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Justificación
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Objetivos
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Metodología
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Plan de trabajo
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Impacto y plan de difusión
+
+<!-- máximo una página -->
+
+{{< pagebreak >}}
+
+# Presupuesto
+
+```{=html}
+<!--
+lo más detallado posible, de los gastos del proyecto para el que se solicita la ayuda.
+Quedan excluidas comidas o pausas-café.
+Toda solicitud con un presupuesto que sea considerado no ajustado a la realidad en sus partidas será desestimada.
+-->
+```
+
+{{< pagebreak >}}
+
+# Conformidad de participación
+
+<!-- Todas las personas que integren el equipo investigador deberán firmar en la solicitud su conformidad de participación en el proyecto. -->
