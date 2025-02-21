@@ -2,8 +2,6 @@
 title: "Memoria científico-técnica"
 format:
   typst: default
-  pdf: default
-  docx: default
 ---
 
 # Datos identificativos
@@ -67,6 +65,16 @@ format:
 lo más detallado posible, de los gastos del proyecto para el que se solicita la ayuda.
 Quedan excluidas comidas o pausas-café.
 Toda solicitud con un presupuesto que sea considerado no ajustado a la realidad en sus partidas será desestimada.
+
+Conceptos susceptibles de ayuda
+
+a) Gastos de adquisición, alquiler, mantenimiento o reparación de equipamiento científico-técnico de la UNED no inventariable y licencias para programas de ordenador de carácter técnico necesarios para la investigación del proyecto.
+
+b) Gastos de material fungible, suministros y productos similares, excluyendo material de oficina e informático.
+
+c) Gastos de viajes y alojamiento, asistencia a congresos y conferencias, visitas y estancias breves de investigadores, tanto de invitados como del equipo de investigación del proyecto.
+
+d) Gastos derivados de actividades de formación imprescindibles para la ejecución del proyecto. Queda excluida la organización de actividades científico-técnicas y congresos.
 -->
 ```
 
