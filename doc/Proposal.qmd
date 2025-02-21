@@ -79,6 +79,7 @@ Yendo incluso más allá, conviene justificar teóricamente la definción dada p
 
 CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT mediante los parámetros multidimensionales** (O1), más allá del modelo M2PL.
 Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial de los ítems según los modelos MIRT anteriormente estudiados** (O2).
+Por último, se pretende **investigar la aplicación práctica de la caracterízación multidimensional y representación de los modelos** (O3), utilizando tanto estudios de simulación, como ejemplos de instrumentos reales en la literatura estimados con modelos MIRT.
 
 Para ello, se proponen los siguientes objetivos específicos:
 
@@ -90,6 +91,10 @@ Para ello, se proponen los siguientes objetivos específicos:
 -   O2.1: **Proponer las formas de representación vectorial bidimensional más adecuadas a los modelos investigados** en el objetivo O1.1.
 
 -   O2.2: Investigar métodos de visualización de las representaciones vectoriales en tres (y potencialmente, más de tres) dimensiones.
+
+-   O3.1: **Ejemplificar la aplicación y uso de los parámetros multidimensionales y su representación gráfica vectorial mediante datos simulados**.
+
+-   O3.2: **Investigar la aplicación práctica de los resultados, aplicando las definiciones propuestas a ejemplos de modelos MIRT aplicados en medición psicológica y educativa**.
 
 <!-- máximo una página -->
 
