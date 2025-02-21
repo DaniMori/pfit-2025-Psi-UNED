@@ -53,6 +53,20 @@ format:
 
 # Objetivos
 
+CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT mediante los parámetros multidimensionales** (O1), más allá del modelo M2PL.
+Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial de los ítems según los modelos MIRT anteriormente estudiados** (O2).
+
+Para ello, se proponen los siguientes objetivos específicos:
+
+-   O1.1: **Derivar las expresiones de los parámetros multidimensionales para modelos paramétricos** distintos al M2PL.
+    Entre otros, se busca estudiar estos parámetros en las versiones multidimensionales del Modelo Logístico de 3 Parámetros, el Modelo de Crédito Parcial, el Modelo de Respuesta Graduada, así como del Modelo Multidimensional No Compensatorio.
+
+-   O1.2: En base al objetivo O1.1, aplicando un método inductivo, **investigar una formulación generalizada de los parámetros multidimensionales para modelos semiparamétricos y no paramétricos**.
+
+-   O2.1: **Proponer las formas de representación vectorial bidimensional más adecuadas a los modelos investigados** en el objetivo O1.1.
+
+-   O2.2: Investigar métodos de visualización de las representaciones vectoriales en tres (y potencialmente, más de tres) dimensiones.
+
 <!-- máximo una página -->
 
 {{< pagebreak >}}
