@@ -1,16 +1,37 @@
 ---
-title: "Memoria científico-técnica"
+title:     "Memoria científico-técnica"
+subtitle:  |
+  CaMMTRIP: Caracterización de Modelos Multidimensionales en la Teoría de Respuesta
+  al Ítem a través de sus Parámetros
+date-meta: 2025-02-21
+date:      2025-02-21
 format:
-  typst: default
+  typst:   default
 ---
 
 # Datos identificativos
 
 ## Proyecto
 
-## Miembros del equipo de investigación
+**Título:** Caracterización de Modelos Multidimensionales en la Teoría de Respuesta al Ítem a través de sus Parámetros
+
+**Acrónimo:** CaMMTRIP
 
 ## Investigador Principal
+
+**Nombre:** Daniel Vicente Morillo Cuadrado
+
+**Cargo**: Profesor Ayudante Doctor
+
+## Miembros del equipo de investigación
+
+**Nombre:** Mario Luzardo Verde
+
+**Afiliación:** Universidad de la República (Uruguay)
+
+**Cargo:** Profesor Titular
+
+{{< pagebreak >}}
 
 # Resumen
 
