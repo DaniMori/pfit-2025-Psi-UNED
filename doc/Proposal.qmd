@@ -97,20 +97,20 @@ Yendo incluso más allá, conviene justificar teóricamente la definción dada p
 
 # Objetivos
 
-CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT mediante los parámetros multidimensionales** (O1), más allá del modelo M2PL.
-Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial de los ítems según los modelos MIRT anteriormente estudiados** (O2).
-Por último, se pretende **investigar la aplicación práctica de la caracterízación multidimensional y representación de los modelos** (O3), utilizando tanto estudios de simulación, como ejemplos de instrumentos reales en la literatura estimados con modelos MIRT.
+CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT en coordenadas oblicuas mediante parámetros multidimensionales** (O1) más allá del modelo M2PL.
+Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial en coordenadas oblicuas de los ítems según los modelos MIRT anteriormente estudiados** (O2).
+Por último, se pretende **demostrar la aplicación práctica de la caracterízación multidimensional y representación de los modelos** (O3), utilizando tanto estudios de simulación, como ejemplos de instrumentos reales en la literatura estimados con modelos MIRT.
 
 Para ello, se proponen los siguientes objetivos específicos:
 
--   O1.1: **Derivar las expresiones de los parámetros multidimensionales para modelos paramétricos** distintos al M2PL.
+-   O1.1: **Derivar las expresiones generalizadas de los parámetros multidimensionales para modelos paramétricos** distintos al M2PL.
     Entre otros, se busca estudiar estos parámetros en las versiones multidimensionales del Modelo Logístico de 3 Parámetros, el Modelo de Crédito Parcial, el Modelo de Respuesta Graduada, así como del Modelo Multidimensional No Compensatorio.
 
--   O1.2: En base al objetivo O1.1, aplicando un método inductivo, **investigar una formulación generalizada de los parámetros multidimensionales para modelos semiparamétricos y no paramétricos**.
+-   O1.2: En base al objetivo O1.1, aplicando un método inductivo, **investigar la posible formulación generalizada de los parámetros multidimensionales para modelos semiparamétricos y no paramétricos**.
 
--   O2.1: **Proponer las formas de representación vectorial bidimensional más adecuadas a los modelos investigados** en el objetivo O1.1.
+-   O2.1: **Proponer las formas de representación vectorial bidimensional en coordenadas oblicuas adecuadas a los modelos investigados** en el objetivo O1.1.
 
--   O2.2: Investigar métodos de visualización de las representaciones vectoriales en tres (y potencialmente, más de tres) dimensiones.
+-   O2.2: **Investigar métodos de visualización de las representaciones vectoriales en tres dimensiones**.
 
 -   O3.1: **Ejemplificar la aplicación y uso de los parámetros multidimensionales y su representación gráfica vectorial mediante datos simulados**.
 
