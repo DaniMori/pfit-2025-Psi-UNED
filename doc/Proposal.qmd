@@ -7,6 +7,7 @@ date-meta: 2025-02-21
 date:      2025-02-21
 format:
   pdf:     default
+  docx:    default
 bibliography: ../www/references.bib
 ---
 
@@ -43,6 +44,25 @@ bibliography: ../www/references.bib
 # Antecedentes
 
 <!-- máximo una página -->
+
+La Teoría de Respuesta al Ítem (*Item Response Theory*, IRT) es uno de los desarrollos teóricos más importantes del pasado siglo en el ámbito de la psicometría y medición educativa.
+En su versión paramétrica, ampliamente extendida, la IRT se propone modelar las propiedades de los estímulos (ítems) en base a una serie de parámetros que, junto con los rasgos latentes de las personas, caracterizan las probabilidades de respuesta a cada categoría.
+La IRT multidimensional (MIRT) extiende estos modelos a la medición de constructos multivariados.
+Dada su convergencia con los modelos factoriales [@mcdonald1999], la MIRT es, a día de hoy, una de las bases fundamentales de la teoría de la medición [@contempo2005].
+
+El modelo logístico de dos parámetros [*2-Parameter Logistic,* 2PL; @lord1968] es uno de los modelos paramétricos de IRT más ampliamente utilizados y estudiados; de acuerdo al mismo, cada ítem se caracteriza por un parámetro de dificultad, que determina la probabilidad de acertar el ítem, y uno de discriminación, interpretado como su *validez* o capacidad para diferenciar entre personas con nivel de rasgo alto y bajo.
+Su versión multidimensional (*Multidimensional 2-Parameter Logistic*, M2PL) asume que el ítem tiene un vector de discriminación en lugar de un único valor, además de un parámetro de *intersección*.
+En contraste con el modelo 2PL, estos parámetros no son directamente interpretables.
+Por este motivo, @reckase1985 propuso una definición formal de la dificultad para ítems multidimensionales y, aplicándola al modelo M2PL, obtuvo su expresión.
+En la misma línea, @reckase1991 propusieron una definición de la discriminación multidimensional y derivaron su expresión para el modelo M2PL.
+No obstante, estas definiciones asumen la ortogonalidad del espacio latente.
+Esto en la práctica se traduce en su limitación a la medida de rasgos latentes no correlacionados.
+Para poder generalizarlas al dominio de ítems no cognitivos (i.e., cuestionarios autoinformados), es necesario relajar este supuesto.
+
+Aplicando las definiciones de @reckase1985 y @reckase1991, @morillo extienden las expresiones de la dificultad y discriminación multidimensional del modelo M2PL a ejes no ortogonales [@zhang1999].
+Además, mostraron cómo la representación bidimensional de los ítems [@ackerman1996] podía realizarse en ejes no ortogonales.
+A pesar de ello, existen varias cuestiones por resolver para poder aplicar estas definiciones a otros modelos de IRT multidimensional (MIRT): En primer lugar, no está claro cómo se definen estos parámetros en modelos distintos del M2PL, aunque muchas instancias en la literatura los aplican de forma acrítica [e.g., @huang2020; @steinley2019; @kim2018].
+Además, su representación bidimensional, si bien aporta información muy útil para el diseño y construcción de tests, limita sus aplicaciones a instrumentos que miden únicamente dos rasgos.
 
 {{< pagebreak >}}
 
