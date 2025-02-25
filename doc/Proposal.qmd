@@ -5,6 +5,7 @@ subtitle:  |
   al Ítem a través de sus Parámetros
 date-meta: 2025-02-21
 date:      2025-02-21
+lang:      es
 format:
   pdf:     default
   docx:    default
@@ -147,6 +148,8 @@ Por último, se realizarán búsquedas bibliográficas y utilizarán procedimien
 {{< pagebreak >}}
 
 # Plan de trabajo
+
+![Planificación de alto nivel del proyecto CaMMTRIP](../www/Gantt_CaMMTRIP.png){fig-alt="Un diagrama de Gantt con el desglose de las tareas del proyecto" fig-align="center"}
 
 <!-- máximo una página -->
 
