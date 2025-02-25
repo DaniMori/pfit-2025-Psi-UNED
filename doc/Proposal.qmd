@@ -212,19 +212,27 @@ d) Gastos derivados de actividades de formación imprescindibles para la ejecuci
 -->
 ```
 
-<!-- IMPS 2024: 725$ (late registration, https://www.psychometricsociety.org/imps2024-registration) Contar con posible subida de precio y fluctuación dólar -->
-
-| Categoría / concepto                |     Coste | TOTAL categoría |
-|-------------------------------------|----------:|----------------:|
-| **Equipamiento científico-técnico** |           |        457,00 € |
-| Servidor de cálculo                 |  457,00 € |                 |
-| **Material fungible**               |    0,00 € |          0,00 € |
-| **Viaje y alojamiento**             |           |       3005,92 € |
-| Inscripción IMPS-2025               |  761,12 € |                 |
-| Vuelo Madrid-Minneapolis            | 1080,00 € |                 |
-| Alojamiento Minneapolis (5 noches)  | 1154,80 € |                 |
-| **Formación**                       |    0,00 € |          0,00 € |
-| **TOTAL**                           |           |   **3462,92 €** |
++---------------------------------------+--------------+---------------------+
+| **Categoría / concepto**              | **Coste**    | **Total categoría** |
++=======================================+=============:+====================:+
+| **Equipamiento científico-técnico**   |              | 457,00 €            |
++---------------------------------------+--------------+---------------------+
+| \- Servidor de cálculo                | 457,00 €     |                     |
++---------------------------------------+--------------+---------------------+
+|                                       |              |                     |
++---------------------------------------+--------------+---------------------+
+| **Viaje y alojamiento**               |              | 3030,76 €           |
++---------------------------------------+--------------+---------------------+
+| \- Inscripción IMPS-2025              | 774,96 €     |                     |
++---------------------------------------+--------------+---------------------+
+| \- Vuelo Madrid-Minneapolis           | 1080,00 €    |                     |
++---------------------------------------+--------------+---------------------+
+| \- Alojamiento Minneapolis (5 noches) | 1175,80 €    |                     |
++---------------------------------------+--------------+---------------------+
+|                                       |              |                     |
++---------------------------------------+--------------+---------------------+
+| **TOTAL SOLICITADO:**                 |              | **3487,76 €**       |
++---------------------------------------+--------------+---------------------+
 
 : Presupuesto detallado del proyecto CaMMTRIP
 
