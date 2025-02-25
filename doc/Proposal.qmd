@@ -149,7 +149,18 @@ Por último, se realizarán búsquedas bibliográficas y utilizarán procedimien
 
 # Plan de trabajo
 
-![Planificación de alto nivel del proyecto CaMMTRIP](../www/Gantt_CaMMTRIP.png){fig-alt="Un diagrama de Gantt con el desglose de las tareas del proyecto" fig-align="center"}
+![Planificación de alto nivel del proyecto CaMMTRIP](../www/Gantt_CaMMTRIP.png){#fig-gantt fig-alt="Un diagrama de Gantt con el desglose de las tareas del proyecto" fig-align="center"}
+
+La @fig-gantt muestra la planificación del proyecto.
+Se parte de la fecha máxima de resolución de la convocatoria para fijar el supuesto de inicio de las tareas, y se plantea una duración total de un año, tal y como reflejan las bases de la convocatoria.
+El trabajo se divide en 6 paquetes principales de trabajo: El primero de ellos consiste en una búqueda bibliográfica preliminar, que permita detallar los objetivos planteados en base a los modelos más comúnmente utilizados en la literatura, para de ese modo facilitar la aplicación práctica de los resultados.
+Los cuatro paquetes siguientes se corresponden, respectivamente, con los objetivos generales G1 y G2, y los específicos E3.1 y E3.2.
+Por último, hay un paquete dedicado a la comunicación y difusión de los resultados.
+
+El esfuerzo será llevado a cabo principalmente por el IP del proyecto (Daniel Morillo Cuadrado).
+El otro miembro del equipo, Mario Luzardo Verde, participará en los paquetes "Obtención de parámetros multidimensionales", "Obtención de representaciones gráficas", y "Redacción y presentación de resultados".
+Dentro de estos dos primeros, contribuirá en la formalización de los resultados, y en la investigación de la "Extensión a modelos semiparamétricos y no paramétricos".
+Por último, en el paquete de "Redacción y presentación de resultados" contribuirá principalmente en la tarea de "Preparación del manuscrito", revisando la redacción, además de colaborar en la elaboración de las presentaciones de resultados.
 
 <!-- máximo una página -->
 
