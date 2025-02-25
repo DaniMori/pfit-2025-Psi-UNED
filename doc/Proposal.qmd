@@ -168,9 +168,22 @@ Por último, en el paquete de "Redacción y presentación de resultados" contrib
 
 # Impacto y plan de difusión
 
--   IMPS 2025
+Los resultados serán presentados en las dos modalidades habituales de comunicación científica: Mediante artículo en una revista indexada de alto impacto, y mediante comunicaciones orales, tanto especializadas en el área como de transferencia a las ciencias del comportamiento.
+La comunicación escrita se prevé publicarla en la revista Psychometrika, medio especializado en la publicación de artículos sobre medición psicológica y educativa, de corte eminentemente teórico y orientada a un público investigador en el campo psicométrico.
+Esta revista, editada por la [Sociedad Psicométrica](https://www.psychometricsociety.org/), cuenta con gran prestigio y reconocimiento dentro del área.
+Con un JIF de 2.9 en [la última publicación del JCR](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=PSYCHOMETRIKA&year=2023) (correspondiente al año 2023) se sitúa, según el SSCI, en el centil 80.8 de la categoría *Psychology, Mathematical*, 81.1 de *Mathematics, Interdisciplinary Applications*, y 82.8 de *Social Sciences, Mathematical Methods* (todos ellos Q1).
+En base a una publicación preliminar en esta misma línea de investigación [@morillo, en su versión preprint], actualmente en revisión, podemos afirmar que la publicación de los resultados de este proyecto tiene un buen prospecto y cabida en dicha revista.
+Además, al ser esta revista [publicada por Cambridge University Press](https://www.cambridge.org/core/journals/psychometrika), está cubierta por el [acuerdo transformativo firmado por la UNED con esta editorial](https://www.cambridge.org/core/services/open-access-policies/read-and-publish-agreements/oa-agreement-uned-biblioteca-university), posibilitando la publicación del artículo en Open Access por la vía dorada (*Gold Open Access*) sin costes adicionales de publicación.
 
--   Psychometrika <!-- Acuerdo transformativo Cambridge University Press -->
+Por otra parte, se prevé la difusión de los resultados a través de dos comunicaciones orales.
+La primera de ellas, en el *International Meeting of the Psychometric Society*, que se celebrará en Minneapolis (Minnesota, USA) en julio de 2025 ([IMPS 2025](https://www.psychometricsociety.org/imps-2025)).
+Actualmente, una versión preliminar de estos resultados está enviada a dicho evento, estando en revisión por parte del comité científico.
+Esta comunicación sienta las bases teóricas de los objetivos de este proyecto, y representa la continuación del artículo de @morillo anteriormente mencionado.
+Se prevé destinar una partida importante del presupuesto de este proyecto a cubrir los costes de asistencia a este evento.
+
+De acuerdo a las bases de la convocatoria, se realizará una segunda comunicación oral en formato de seminario de difusión, que se llevará a cabo en la Facultad de Psicología de la UNED.
+En este acto se presentarán los resultados finales del proyecto, mostrando las aplicaciones prácticas del mismo y haciendo un llamamiento a considerar la estructura del espacio latente al ajustar modelos MIRT más allá del modelo M2PL.
+Además, se incidirá en la aplicación práctica de los resultados, se incluyendo ejemplos de uso que permitan llevarlos a la práctica mediante instrumentos de medida habituales.
 
 <!-- máximo una página -->
 
