@@ -13,6 +13,7 @@ format:
   pdf:     default
   docx:    default
 bibliography: ../www/references.bib
+csl:          ../www/apa-old-doi-prefix.csl
 ---
 
 # Datos identificativos
@@ -72,6 +73,8 @@ Además, su representación bidimensional, si bien aporta información muy útil
 
 # Justificación
 
+<!-- máximo una página -->
+
 El modelo M2PL resulta prácticamente equivalente al modelo factorial para ítems dicotómicos [@mcdonald1999].
 No obstante, en la investigación aplicada no suelen utilizarse ítems de respuesta dicotómica, por lo que los resultados antes mencionados, si bien constituyen un punto de partida, no son ampliamente aplicables.
 Los modelos de análisis factorial de ítems contemplan la posibilidad de respuestas en escalas graduadas "tipo Likert", lo cual también es abordable desde el punto de vista de la TRI [@samejima1968].
@@ -95,11 +98,11 @@ Todos estos modelos van mucho más allá de la equivalencia con el modelo factor
 Por lo tanto, en base a las derivaciones teóricas anteriormente mencionadas, resulta necesario generalizar las definiciones de los parámetros multidimensionales dadas por @reckase1985 y @reckase1991 a otros modelos MIRT.
 Yendo incluso más allá, conviene justificar teóricamente la definción dada por @zhang1999 para modelos MIRT semiparamétricos.
 
-<!-- máximo una página -->
-
 {{< pagebreak >}}
 
 # Objetivos
+
+<!-- máximo una página -->
 
 CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT en coordenadas oblicuas mediante parámetros multidimensionales** (G1) más allá del modelo M2PL.
 Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial en coordenadas oblicuas de los ítems según los modelos MIRT anteriormente estudiados** (G2).
@@ -120,11 +123,11 @@ Para ello, se proponen los siguientes objetivos específicos:
 
 -   E3.2: **Demostrar la aplicación práctica de los resultados, aplicando las definiciones propuestas a ejemplos de modelos MIRT aplicados en medición psicológica y educativa**.
 
-<!-- máximo una página -->
-
 {{< pagebreak >}}
 
 # Metodología
+
+<!-- máximo una página -->
 
 Los objetivos perseguidos en este trabajo responden principalmente al estudio de la formulación teórica de los modelos MIRT estudiados.
 Por lo tanto, el método empleado en este proyecto será principalmente deductivo, utilizando los postulados formales del cálculo, el álgebra matricial, la geometría euclidea, y métodos computacionales de programación estadística y gráfica.
@@ -134,7 +137,7 @@ Por último, se realizarán búsquedas bibliográficas y utilizarán procedimien
 1.  Para identificar y catalogar los modelos paramétricos a estudiar (E1.1), así como ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (E3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
     Tras seleccionar los artículos que apliquen los modelos MIRT estudiados y catalogar los modelos, se realizará el cálculo de los parámetros multidimensionales y la representación vectorial de los ítems.
 
-2.  Partiendo de la formulación de cada modelo (E1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985, @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
+2.  Partiendo de la formulación de cada modelo (E1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985; @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
     Para ello, será necesario aplicar métodos de cálculo diferencial y álgebra matricial, tal y como se ha hecho anteriormente en el estudio del M2PL [@morillo].
 
 3.  Se investigará asimismo la aplicación de estos métodos al dominio de los modelos semiparamétricos y no paramétricos (E1.2), partiendo de la abstracción de los resultados anteriores y la generalización de los métodos aplicados en el objetivo E1.1.
@@ -146,11 +149,11 @@ Por último, se realizarán búsquedas bibliográficas y utilizarán procedimien
 6.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (E3.1).
     Aplicando diferentes métodos de estimación implementados en el paquete {mirt} para R [@chalmers2012], se estimarán los parámetros de los ítems de acuerdo al modelo utilizado.
 
-<!-- máximo una página -->
-
 {{< pagebreak >}}
 
 # Plan de trabajo
+
+<!-- máximo una página -->
 
 ![Planificación de alto nivel del proyecto CaMMTRIP](../www/Gantt_CaMMTRIP.png){#fig-gantt fig-alt="Un diagrama de Gantt con el desglose de las tareas del proyecto" fig-align="center"}
 
@@ -165,11 +168,11 @@ El otro miembro del equipo, Mario Luzardo Verde, participará en los paquetes "O
 Dentro de estos dos primeros, contribuirá en la formalización de los resultados, y en la investigación de la "Extensión a modelos semiparamétricos y no paramétricos".
 Por último, en el paquete de "Redacción y presentación de resultados" contribuirá principalmente en la tarea de "Preparación del manuscrito", revisando la redacción, además de colaborar en la elaboración de las presentaciones de resultados.
 
-<!-- máximo una página -->
-
 {{< pagebreak >}}
 
 # Impacto y plan de difusión
+
+<!-- máximo una página -->
 
 Los resultados serán presentados en las dos modalidades habituales de comunicación científica: Mediante artículo en una revista indexada de alto impacto, y mediante comunicaciones orales, tanto especializadas en el área como de transferencia a las ciencias del comportamiento.
 La comunicación escrita se prevé publicarla en la revista Psychometrika, medio especializado en la publicación de artículos sobre medición psicológica y educativa, de corte eminentemente teórico y orientada a un público investigador en el campo psicométrico.
@@ -188,11 +191,11 @@ De acuerdo a las bases de la convocatoria, se realizará una segunda comunicaci�
 En este acto se presentarán los resultados finales del proyecto, mostrando las aplicaciones prácticas del mismo y haciendo un llamamiento a considerar la estructura del espacio latente al ajustar modelos MIRT más allá del modelo M2PL.
 Además, se incidirá en la aplicación práctica de los resultados, se incluyendo ejemplos de uso que permitan llevarlos a la práctica mediante instrumentos de medida habituales.
 
-<!-- máximo una página -->
-
 {{< pagebreak >}}
 
 # Presupuesto
+
+<!-- máximo una página -->
 
 ```{=html}
 <!--
