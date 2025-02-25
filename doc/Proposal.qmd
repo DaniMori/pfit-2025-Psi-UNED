@@ -1,8 +1,11 @@
 ---
-title:  |
+title:     |
   CaMMTRIP: Caracterización de Modelos Multidimensionales en la Teoría de
   Respuesta al Ítem a través de sus Parámetros
-subtitle:     "Memoria científico-técnica"
+subtitle:  |
+  Memoria científico-técnica\
+  Plan 2025 para el fomento de la investigación y de la transferencia de la
+  investigación de la Facultad de   Psicología (UNED)
 date-meta: 2025-02-21
 date:      2025-02-21
 lang:      es
