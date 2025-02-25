@@ -211,6 +211,41 @@ d) Gastos derivados de actividades de formación imprescindibles para la ejecuci
 
 <!-- IMPS 2024: 725$ (late registration, https://www.psychometricsociety.org/imps2024-registration) Contar con posible subida de precio y fluctuación dólar -->
 
+| Categoría / concepto                |     Coste | TOTAL categoría |
+|-------------------------------------|----------:|----------------:|
+| **Equipamiento científico-técnico** |           |        457,00 € |
+| Servidor de cálculo                 |  457,00 € |                 |
+| **Material fungible**               |    0,00 € |          0,00 € |
+| **Viaje y alojamiento**             |           |       3005,92 € |
+| Inscripción IMPS-2025               |  761,12 € |                 |
+| Vuelo Madrid-Minneapolis            | 1080,00 € |                 |
+| Alojamiento Minneapolis (5 noches)  | 1154,80 € |                 |
+| **Formación**                       |    0,00 € |          0,00 € |
+| **TOTAL**                           |           |   **3462,92 €** |
+
+: Presupuesto detallado del proyecto CaMMTRIP
+
+#### Supuestos generales
+
+Para todos los precios en dólares estadounidenses (USD) se aplican los siguientes supuestos:
+
+-   **Tasa de cambio** [USD a EUR, a fecha 24-02-2025 (17:00 UTC)](https://www.xe.com/es/currencytables/?from=USD&to=EUR&date=2025-02-24#table-section): 0,95438 EUR/USD.
+
+-   **Holgura:** Se aplica un 10% de holgura para tener en cuenta el posible aumento de coste respecto del año 2024 y la volatilidad del cambio USD-EUR.
+
+#### Equipamiento científico-técnico
+
+Dados los requisitos del proyecto a nivel computacional, se plantea adquirir un servidor de cálculo que permita realizar trabajos intensivos sin riesgo de sobrecalentamiento o pérdidas energéticas.
+El equipo [Dell PowerEdge R630](https://www.ebay.es/itm/126809834964?chn=ps&norover=1&mkevt=1&mkrid=1185-171098-620544-2&mkcid=2&mkscid=101&itemid=126809834964&targetid=4587643557263192&device=c&mktype=&googleloc=&poi=&campaignid=604036871&mkgroupid=1344705138822013&rlsatarget=pla-4587643557263192&abcId=9395748&merchantid=137185), con la suficiente configuración de memoria RAM y procesadores (457 €), se considera adecuado para el proyecto.
+
+#### IMPS 2025
+
+-   **Inscripción:** \$725. En base a los [plazos de inscripción al evento](https://www.psychometricsociety.org/imps2025-schedule) y de resolución de la convocatoria, se usa el [precio de "inscripción tardía" del IMPS 2024](https://www.psychometricsociety.org/imps2024-registration) (los del IMPS 2025 no han sido publicados aún), puesto que es probable que no se pueda hacer el registro durante el período de precio reducido.
+-   **Alojamiento:** La búsqueda preliminar a través de Booking ofrece resultados [en torno a los \$1100](https://www.booking.com/searchresults.es-mx.html?label=duc511jc-1DCAMo7AFCC21pbm5lYXBvbGlzSDNYA2hGiAEBmAFSuAEXyAEP2AED6AEBiAIBqAIDuAKU7Pe9BsACAdICJDUwMGMyZWIxLTE0NTctNDFmNC1iNjIxLThjMjAxZDlhOWNjZdgCBOACAQ&sid=57151c5a3b5f7f05442d86ad81205839&aid=390156&ss=Minneapolis&ssne=Minneapolis&ssne_untouched=Minneapolis&efdco=1&lang=es-mx&src=searchresults&dest_id=20067845&dest_type=city&checkin=2025-07-14&checkout=2025-07-19&group_adults=1&no_rooms=1&group_children=0&nflt=price%3DEUR-min-290-1#map_opened), para precios asequibles en las proximidades de la Universidad de Minnesota.
+-   **Vuelo:** La [búsqueda en el agregador SkyScanner](https://www.skyscanner.es/transport/flights/mad/mspa/250714/250719/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=1) arroja resultados desde 900 €, a lo que se añade un 20% de holgura para tener en cuenta las fluctuaciones de precios y desplazamientos desde/a aeropuertos.
+
+{{< pagebreak >}}
+
 {{< pagebreak >}}
 
 # Conformidad de participación
