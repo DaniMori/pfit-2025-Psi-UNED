@@ -98,24 +98,24 @@ Yendo incluso más allá, conviene justificar teóricamente la definción dada p
 
 # Objetivos
 
-CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT en coordenadas oblicuas mediante parámetros multidimensionales** (O1) más allá del modelo M2PL.
-Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial en coordenadas oblicuas de los ítems según los modelos MIRT anteriormente estudiados** (O2).
-Por último, se pretende **demostrar la aplicación práctica de la caracterízación multidimensional y representación de los modelos** (O3), utilizando tanto estudios de simulación, como ejemplos de instrumentos reales en la literatura estimados con modelos MIRT.
+CaMMTRIP tiene por objetivo principal **generalizar la caracterización de modelos MIRT en coordenadas oblicuas mediante parámetros multidimensionales** (G1) más allá del modelo M2PL.
+Asimismo, y en base al objetivo anterior, se persigue **hallar la representación vectorial en coordenadas oblicuas de los ítems según los modelos MIRT anteriormente estudiados** (G2).
+Por último, se pretende **demostrar la aplicación práctica de la caracterízación multidimensional y representación de los modelos** (G3), utilizando tanto estudios de simulación, como ejemplos de instrumentos reales en la literatura estimados con modelos MIRT.
 
 Para ello, se proponen los siguientes objetivos específicos:
 
--   O1.1: **Derivar las expresiones generalizadas de los parámetros multidimensionales para modelos paramétricos** distintos al M2PL.
+-   E1.1: **Derivar las expresiones generalizadas de los parámetros multidimensionales para modelos paramétricos** distintos al M2PL.
     Entre otros, se busca estudiar estos parámetros en las versiones multidimensionales del Modelo Logístico de 3 Parámetros, el Modelo de Crédito Parcial, el Modelo de Respuesta Graduada, así como del Modelo Multidimensional No Compensatorio.
 
--   O1.2: En base al objetivo O1.1, aplicando un método inductivo, **investigar la posible formulación generalizada de los parámetros multidimensionales para modelos semiparamétricos y no paramétricos**.
+-   E1.2: En base al objetivo E1.1, aplicando un método inductivo, **investigar la posible formulación generalizada de los parámetros multidimensionales para modelos semiparamétricos y no paramétricos**.
 
--   O2.1: **Proponer las formas de representación vectorial bidimensional en coordenadas oblicuas adecuadas a los modelos investigados** en el objetivo O1.1.
+-   E2.1: **Proponer las formas de representación vectorial bidimensional en coordenadas oblicuas adecuadas a los modelos investigados** en el objetivo E1.1.
 
--   O2.2: **Investigar métodos de visualización de las representaciones vectoriales en tres dimensiones**.
+-   E2.2: **Investigar métodos de visualización de las representaciones vectoriales en tres dimensiones**.
 
--   O3.1: **Ejemplificar la aplicación y uso de los parámetros multidimensionales y su representación gráfica vectorial mediante datos simulados**.
+-   E3.1: **Ejemplificar la aplicación y uso de los parámetros multidimensionales y su representación gráfica vectorial mediante datos simulados**.
 
--   O3.2: **Demostrar la aplicación práctica de los resultados, aplicando las definiciones propuestas a ejemplos de modelos MIRT aplicados en medición psicológica y educativa**.
+-   E3.2: **Demostrar la aplicación práctica de los resultados, aplicando las definiciones propuestas a ejemplos de modelos MIRT aplicados en medición psicológica y educativa**.
 
 <!-- máximo una página -->
 
@@ -128,19 +128,19 @@ Por lo tanto, el método empleado en este proyecto será principalmente deductiv
 Asimismo, se utilizarán métodos de simulación computacional para investigar la aplicación de estos resultados a los modelos.
 Por último, se realizarán búsquedas bibliográficas y utilizarán procedimientos de estimación de MIRT, para aplicar estos resultados a ejemplos reales de medición psicológica y educativa.
 
-1.  Partiendo de la formulación de cada modelo (O1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985, @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
+1.  Partiendo de la formulación de cada modelo (E1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985, @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
     Para ello, será necesario aplicar métodos de cálculo diferencial y álgebra matricial, tal y como se ha hecho anteriormente en el estudio del M2PL [@morillo].
 
-2.  Se investigará asimismo la aplicación de estos métodos al dominio de los modelos semiparamétricos y no paramétricos (O1.2), partiendo de la abstracción de los resultados anteriores y la generalización de los métodos aplicados en el objetivo O1.1.
+2.  Se investigará asimismo la aplicación de estos métodos al dominio de los modelos semiparamétricos y no paramétricos (E1.2), partiendo de la abstracción de los resultados anteriores y la generalización de los métodos aplicados en el objetivo E1.1.
 
-3.  Aplicando la geometría euclidea, se obtendrán las representaciones gráficas vectoriales de los ítems, de acuerdo a los diferentes modelos, en coordenadas oblicuas, ya sea en dos (O2.1) o en tres (O2.2) dimensiones.
+3.  Aplicando la geometría euclidea, se obtendrán las representaciones gráficas vectoriales de los ítems, de acuerdo a los diferentes modelos, en coordenadas oblicuas, ya sea en dos (E2.1) o en tres (E2.2) dimensiones.
 
 4.  La representación gráfica se implementará en R [@rcoreteam2022], utilizando el paquete {ggplot2} [@wickham2011] para la representación bidimensional, y el paquete {plotly} [@sievert] para la representación en tres dimensiones.
 
-5.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (O3.1).
+5.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (E3.1).
     Aplicando diferentes métodos de estimación implementados en el paquete {mirt} para R [@chalmers2012], se estimarán los parámetros de los ítems de acuerdo al modelo utilizado.
 
-6.  Para ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (O3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
+6.  Para ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (E3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
     Tras seleccionar los artículos que apliquen los modelos MIRT estudiados, se realizará el cálculo de los parámetros multidimensionales y la representación vectorial de los ítems.
 
 <!-- máximo una página -->
