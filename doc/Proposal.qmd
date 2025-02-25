@@ -44,6 +44,14 @@ csl:          ../www/apa-old-doi-prefix.csl
 
 <!-- máximo 1000 palabras -->
 
+Los modelos de Teoría de Respuesta al Ítem multidimensionales permiten modelar constructos latentes multivariados en el ámbito de la medición psicológica y educativa.
+Gracias a estos modelos y, en concreto, al modelo Multidimensional Logístico de 2 Parámetros, se puede caracterizar los ítems multidimensionales mediante dos parámetros, la dificultad y la discriminación, equivalentes a su contrapartida unidimensional.
+Además, desarrollos recientes extienden estos parámetros a la geometría oblicua, necesaria para representar rasgos latentes correlacionados.
+No obstante, el uso de estos parámetros se ha aplicado a otros modelos en la literatura, sin hacer una reflexión crítica acerca de su aplicabilidad e interpretación.
+Este proyecto pretende poner remedio obteniendo la derivación de esos parámetros, y su consecuente representación gráfica (en dos y tres dimensiones de rasgo latente), en los modelos multidimensionales más utilizados.
+Asimismo, se propone investigar la generalización de estos resultados a modelos semiparamétricos y no paramétricos.
+Finalmente, este proyecto demostrará la aplicación práctica de estos desarrollos mediante su aplicación, primero a estudios de simulación, y luego a ejemplos reales extraídos de la literatura especializada en medición psicológica y educativa.
+
 {{< pagebreak >}}
 
 # Antecedentes
