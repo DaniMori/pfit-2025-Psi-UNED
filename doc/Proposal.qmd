@@ -123,7 +123,7 @@ Para ello, se proponen los siguientes objetivos específicos:
 # Metodología
 
 Los objetivos perseguidos en este trabajo responden principalmente al estudio de la formulación teórica de los modelos MIRT estudiados.
-Por lo tanto, el método empleado en este proyecto será principalmente deductivo, utilizando los postulados formales del cálculo, el álgebra matricial, y la geometría euclidea.
+Por lo tanto, el método empleado en este proyecto será principalmente deductivo, utilizando los postulados formales del cálculo, el álgebra matricial, la geometría euclidea, y métodos computacionales de programación estadística y gráfica.
 Asimismo, se utilizarán métodos de simulación computacional para investigar la aplicación de estos resultados a los modelos.
 Por último, se realizarán búsquedas bibliográficas y utilizarán procedimientos de estimación de MIRT, para aplicar estos resultados a ejemplos reales de medición psicológica y educativa.
 
@@ -134,10 +134,12 @@ Por último, se realizarán búsquedas bibliográficas y utilizarán procedimien
 
 3.  Aplicando la geometría euclidea, se obtendrán las representaciones gráficas vectoriales de los ítems, de acuerdo a los diferentes modelos, en coordenadas oblicuas, ya sea en dos (O2.1) o en tres (O2.2) dimensiones.
 
-4.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (O3.1).
-    Aplicando diferentes métodos de estimación implementados en el paquete {mirt} para R @chalmers2012, se estimarán los parámetros de los ítems de acuerdo al modelo utilizado.
+4.  La representación gráfica se implementará en R [@rcoreteam2022], utilizando el paquete {ggplot2} [@wickham2011] para la representación bidimensional, y el paquete {plotly} [@sievert] para la representación en tres dimensiones.
 
-5.  Para ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (O3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
+5.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (O3.1).
+    Aplicando diferentes métodos de estimación implementados en el paquete {mirt} para R [@chalmers2012], se estimarán los parámetros de los ítems de acuerdo al modelo utilizado.
+
+6.  Para ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (O3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
     Tras seleccionar los artículos que apliquen los modelos MIRT estudiados, se realizará el cálculo de los parámetros multidimensionales y la representación vectorial de los ítems.
 
 <!-- máximo una página -->
