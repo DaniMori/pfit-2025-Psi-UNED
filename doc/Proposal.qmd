@@ -128,20 +128,20 @@ Por lo tanto, el método empleado en este proyecto será principalmente deductiv
 Asimismo, se utilizarán métodos de simulación computacional para investigar la aplicación de estos resultados a los modelos.
 Por último, se realizarán búsquedas bibliográficas y utilizarán procedimientos de estimación de MIRT, para aplicar estos resultados a ejemplos reales de medición psicológica y educativa.
 
-1.  Partiendo de la formulación de cada modelo (E1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985, @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
+1.  Para identificar y catalogar los modelos paramétricos a estudiar (E1.1), así como ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (E3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
+    Tras seleccionar los artículos que apliquen los modelos MIRT estudiados y catalogar los modelos, se realizará el cálculo de los parámetros multidimensionales y la representación vectorial de los ítems.
+
+2.  Partiendo de la formulación de cada modelo (E1.1), se aplicará el método de cálculo del punto de máxima pendiente [@reckase1985, @reckase1991] para obtener los parámetros de dificultad y discriminación de los ítems según cada uno de los modelos bajo estudio.
     Para ello, será necesario aplicar métodos de cálculo diferencial y álgebra matricial, tal y como se ha hecho anteriormente en el estudio del M2PL [@morillo].
 
-2.  Se investigará asimismo la aplicación de estos métodos al dominio de los modelos semiparamétricos y no paramétricos (E1.2), partiendo de la abstracción de los resultados anteriores y la generalización de los métodos aplicados en el objetivo E1.1.
+3.  Se investigará asimismo la aplicación de estos métodos al dominio de los modelos semiparamétricos y no paramétricos (E1.2), partiendo de la abstracción de los resultados anteriores y la generalización de los métodos aplicados en el objetivo E1.1.
 
-3.  Aplicando la geometría euclidea, se obtendrán las representaciones gráficas vectoriales de los ítems, de acuerdo a los diferentes modelos, en coordenadas oblicuas, ya sea en dos (E2.1) o en tres (E2.2) dimensiones.
+4.  Aplicando la geometría euclidea, se obtendrán las representaciones gráficas vectoriales de los ítems, de acuerdo a los diferentes modelos, en coordenadas oblicuas, ya sea en dos (E2.1) o en tres (E2.2) dimensiones.
 
-4.  La representación gráfica se implementará en R [@rcoreteam2022], utilizando el paquete {ggplot2} [@wickham2011] para la representación bidimensional, y el paquete {plotly} [@sievert] para la representación en tres dimensiones.
+5.  La representación gráfica se implementará en R [@rcoreteam2022], utilizando el paquete {ggplot2} [@wickham2011] para la representación bidimensional, y el paquete {plotly} [@sievert] para la representación en tres dimensiones.
 
-5.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (E3.1).
+6.  Se realizarán estudios de simulación para la generación de ítems y respuestas en función de cada uno de los modelos multidimensionales bajo estudio (E3.1).
     Aplicando diferentes métodos de estimación implementados en el paquete {mirt} para R [@chalmers2012], se estimarán los parámetros de los ítems de acuerdo al modelo utilizado.
-
-6.  Para ejemplificar la aplicación y utilidad práctica de las definiciones propuestas de los parámetros (E3.2), se realizará una búsqueda bibliográfica sistemática en la literatura sobre medición psicológica y educativa.
-    Tras seleccionar los artículos que apliquen los modelos MIRT estudiados, se realizará el cálculo de los parámetros multidimensionales y la representación vectorial de los ítems.
 
 <!-- máximo una página -->
 
